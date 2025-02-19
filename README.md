@@ -20,7 +20,7 @@ A RESTful API for managing military jets and their owners. Built with Java, Spar
 
 1. Clone the repository
 
-`[git clone https://github.com/nnktv28/military-jets-api.git](https://github.com/NNKTV28/ApiRestJava.git)`
+`git clone https://github.com/NNKTV28/ApiRestJava.git`
 
 
 2. Configure PostgreSQL database in `src/main/resources/hibernate.cfg.xml`
